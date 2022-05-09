@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Deusdarius Chimoyi aka ChidebruTechs
-- 👀 I’m interested in Web Develoment, Android Development and cyber Security
-- 🌱 I’m currently learning Android App Development 
+- 👀 I’m interested in Web Develoment, Other Software Development and cyber Security 
+- 🌱 I’m Full Stack Developer
 - 💞️ I’m looking to collaborate with other developers in my line
 - 📫 How to reach me chidebrutechs@gmail.com
 
